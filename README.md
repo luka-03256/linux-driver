@@ -124,7 +124,7 @@ For example:
 
 Copy code
 ```bash  
-cd linux-driver-tutorial/01 # for the Simple Kernel Module 
+cd linux-driver/01 # for the Simple Kernel Module 
 ``` 
 
 <br/><br/><br/>
