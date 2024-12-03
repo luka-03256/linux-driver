@@ -114,8 +114,7 @@ cloned the repository yet, use the following command:
 
 Copy code
 ```bash  
-git clone https://github.com/your_username/linux-driver.git Replace your_username
-with your actual GitHub username.
+git clone https://github.com/luka-03256/linux-driver.git
 ```
 <br/><br/><br/>
 
@@ -125,7 +124,7 @@ For example:
 
 Copy code
 ```bash  
-cd linux-driver/01 # for the Simple Kernel Module 
+cd linux-driver-tutorial/01 # for the Simple Kernel Module 
 ``` 
 
 <br/><br/><br/>
